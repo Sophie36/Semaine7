@@ -82,27 +82,27 @@ footer{
 }
 
 iframe{
-    display:inline-block;
+      display:inline-block;
     vertical-align:top;
-    box-sizing:border-box;
+    box-sizing:border-box; 
 }
 .container{
-    background-color:#09651F;
+    background-color:#C79F4B;
 }
 #identite{
-    background-color:#00F098;
+    background-color:#003421;
 }
 #parcours{
-    background-color:#53C69C;
+    background-color:#003421;
 }
 #competences{
-     background-color:#068758;
+     background-color:#003421;
 }
 #formations{
-     background-color:#6CB99D;
+     background-color:#003421;
 }
 #carte{
-     background-color:#025134;
+     background-color:#003421;
 }
 #coordonnees{
      background-color:#003421;
