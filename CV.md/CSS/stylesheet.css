@@ -1,0 +1,109 @@
+body{
+    border: 3px black ridge;
+    padding:0;
+    margin:0;
+    color:white;
+}
+
+header{
+    background-image:url(../Images/green_dust_scratch.png);
+    padding:10px;
+    width:100%;
+    color:#8a2be2;
+    font-family: Arial,serif;
+    text-align: center;
+	text-shadow: 2px 2px 4px black;
+}
+
+h1{
+    color:#8a2be2;
+    font-family: Arial,serif;
+    text-align: center;
+	text-shadow: 2px 2px 4px black;
+}
+
+main{
+    background-image:url(../Images/pool_table.png);
+    padding:10px;
+    width:100%;
+}
+
+h2{
+    color:#000000;
+}
+
+p{
+    text-align:center;
+    color: blue;
+}
+
+ul li{
+    list-style-type:none;
+    color:black;
+}
+
+footer{
+    background-image:url(../Images/restaurant.png);
+    padding:10px;
+    width:100%;
+    bottom:0;
+}
+
+.coordonnees{
+    text-align:center;
+    width:30%;
+    margin-left:30px;
+    display:inline-block;
+    vertical-align:middle;
+   
+}
+
+.img-thumbnail{
+	display: inline-block;
+	margin:auto;
+	float: right;
+
+}
+
+.introduction{
+    text-align: center;
+}
+
+.conteneur{
+    margin:15px;
+    padding:10px;
+}
+
+.colonne{
+    width:30%;
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+}
+
+iframe{
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+}
+.container{
+    background-color:#09651F;
+}
+#identite{
+    background-color:#00F098;
+}
+#parcours{
+    background-color:#53C69C;
+}
+#competences{
+     background-color:#068758;
+}
+#formations{
+     background-color:#6CB99D;
+}
+#carte{
+     background-color:#025134;
+}
+#coordonnees{
+     background-color:#003421;
+}
